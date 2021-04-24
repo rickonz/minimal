@@ -1,5 +1,5 @@
 ---
-title:  "Spotify Time Series Analysis"
+title:  Spotify Time Series Analysis
 description: ""
 date:   2020-12-10 00:00:00 +0000
 categories: 
