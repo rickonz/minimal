@@ -1,9 +1,12 @@
 ---
-layout: post
 title:  "Spotify Time Series Analysis"
-description: ''
+description: ""
 date:   2020-12-10 00:00:00 +0000
-categories: Projects
+categories: 
+  - Project
+tags:
+  - time series
+  - exploratory data analysis
 ---
 
 

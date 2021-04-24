@@ -1,7 +1,8 @@
 ---
 title:  "Regression Analysis on U.S. Life Expectancy"
 date:   2020-06-15 00:00:00 +0000
-categories: project
+categories:
+  - Project
 tags: 
   - linear regression
 ---

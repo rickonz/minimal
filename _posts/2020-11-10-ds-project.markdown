@@ -1,9 +1,15 @@
 ---
-layout: post
 title:  "How Likely Will You Get Employed?"
-description: ''
+description: ""
 date:   2020-10-03 00:00:00 +0000
-categories: Projects
+categories: 
+  - Project
+tags: 
+  - linear regression
+  - logistic regression
+  - exploratory data analysis
+  - PCA
+  - SVD
 ---
 
 In this project, we analyze a campus recruitment data set to investigate the relationship in academic and career performance, by utilizing exploratory data analysis(EDA), principle components analysis(PCA), multiple linear regression and logistic regression.  
