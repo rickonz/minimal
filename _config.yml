@@ -27,6 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+teaser: "/assets/images/santa-barbara.jpg"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,8 +58,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-header: 
-    image: https://github.com/rickonz/rickonz.github.io/blob/master/assets/images/santa-barbara.jpg
 
 author:
   name   : "Rickon Zhang"
