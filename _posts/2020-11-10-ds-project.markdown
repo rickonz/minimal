@@ -10,6 +10,8 @@ tags:
   - exploratory data analysis
   - PCA
   - SVD
+
+classes: wide
 toc: true
 toc_sticky: true
 toc_label: "Outline"
