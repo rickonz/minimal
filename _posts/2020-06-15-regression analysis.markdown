@@ -8,6 +8,8 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "Outline"
+header:
+  image: /assets/images/header00.jpg
 ---
 
 This project focuses on studying the prediction of life expectancy in the United States based on the dataset ***state.x77*** in R library, which is derived from the U.S. Department of Commerce,

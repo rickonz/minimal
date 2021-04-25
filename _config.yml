@@ -21,8 +21,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 github_username: rickonz
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "default"
 search: true
+atom_feed:
+  hide: true
+teaser: /assets/images/santa-barbara.jpg
 
 # Build settings
 markdown: kramdown
@@ -117,3 +120,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: ""
+    anonymize_ip: false # default
