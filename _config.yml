@@ -61,6 +61,7 @@ author:
   name   : "Rickon Zhang"
   avatar : "/assets/images/bio-avatar.jpg"
   bio    : "Coder. Designer."
+  location : "Beijing, CN | Santa Barbara, CA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
