@@ -6,7 +6,7 @@ categories:
 tags: 
   - linear regression
 
-classes: wide
+
 toc: true
 toc_sticky: true
 toc_label: "Outline"

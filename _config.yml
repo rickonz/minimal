@@ -30,7 +30,6 @@ teaser: /assets/images/500x300.png
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-teaser: "/assets/images/santa-barbara.jpg"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -113,8 +112,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      header: 
-        image: /assets/images/santa-barbara.jpg
+      # header: 
+      #   image: /assets/images/santa-barbara.jpg
 
 category_archive:
   type: liquid

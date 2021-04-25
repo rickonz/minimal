@@ -8,7 +8,7 @@ tags:
   - time series
   - exploratory data analysis
 
-classes: wide
+
 toc: true
 toc_sticky: true
 toc_label: "Outline"
