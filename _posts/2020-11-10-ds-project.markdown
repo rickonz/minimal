@@ -111,7 +111,7 @@ Next, we continue to examine the factors that influence the salary. From figure 
 #### **4.3 Can we predict a student’s salary?**
 Since we do not observe significant pattern related to salary visually, we then use principle component analysis to find out if there is influential factor on salary. After using one hot encoding, we transform all the categorical variables into binary form. Then we use singular value decomposition with salary as the target variable with principle components number set to 5, and plot the first 2 principle components as oppose to target variable, salary.
 
---- PC1, PC2 v.s. Target Variable - visualization (14).png ---
+![PC1, PC2 v.s. Target Variable](https://github.com/rickonz/rickonz.github.io/blob/master/projects/campus-placement/image/visualization%20(14).png?raw=true)
 
 The result as shown in figure 9 does not show a obvious pattern between our computed principle components and target variable. So we then computed the explained variance of each principle components. We see from figure 10 that all of the 5 principle components explain a very low variance of our target variable, which indicates we are unable to find significant predictors through principle components analysis. 
 
@@ -124,7 +124,7 @@ Therefore, we check the correlation matrix to find out the exact correlation. As
 
 However, we could still try to fit a multiple linear regression model to examine the fit and loss. We first exclude the outliers that we see in figure 8. To do this, we only use the student data with a salary of 600,000 or below. After fitting the model, we computed the loss by average squared error and get a value of 3320467395 which is very larger, and our plot of predicted value v.s. true value also shows that fitting linear regression model would not be ideal in this case.
 
---- Fitted v.s. True value -  visualization (21).png ---
+![Fitted v.s. True value](https://github.com/rickonz/rickonz.github.io/blob/master/projects/campus-placement/image/visualization%20(21).png?raw=true)
 
 #### **4.4 Can we predict the placement of a student?**
 However, we indeed find some factors that are influencing the likelihood of being employed. Thus, we could apply logistic regression to predict placement status of students. From what we learned from 5.1, we choose bachelor's degree percentage, work experience, gender, bachelor's degree type and MBA specialization as our predictors, and status as target variables. Using logistic regression model in sci-kit learn package to fit our data, we are able to get the result confusion matrix [[ 19,  48],[  9, 139]]). We compute the probability of four kinds of result in confusion matrix and plot a heat map as figure 12 where we can visualize it more clearly. In this model, we have probability of 0.26 in true negative, 0.05 in false negative, 0.16 in false positive and 0.53 in true positive result. In general, our model is of approximately 79 percent accuracy, which predict most placement correctly. 
