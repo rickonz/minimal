@@ -112,8 +112,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      # header: 
-      #   image: /assets/images/santa-barbara.jpg
 
 category_archive:
   type: liquid
