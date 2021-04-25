@@ -17,9 +17,10 @@ header:
 This project focuses on studying the prediction of life expectancy in the United States based on the dataset ***state.x77*** in R library, which is derived from the U.S. Department of Commerce,
 Bureau of the Census (1977) *Statistical Abstract of the United States*.  
 
-![profile-photo](https://github.com/rickonz/rickonz.github.io/blob/master/projects/life-expectancy/image/front-image.jpg?raw=true)
+## ![profile-photo](https://github.com/rickonz/rickonz.github.io/blob/master/projects/life-expectancy/image/front-image.jpg?raw=true)
 
-We will examine the effects of the following 7 variables on life expectancy: 
+We will examine the effects of the following 7 variables on life expectancy:   
+
 *Population*  
 *Income*  
 *Illiteracy*  
