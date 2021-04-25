@@ -10,6 +10,9 @@ tags:
   - exploratory data analysis
   - PCA
   - SVD
+toc: true
+toc_sticky: true
+toc_label: "Outline"
 ---
 
 In this project, we analyze a campus recruitment data set to investigate the relationship in academic and career performance, by utilizing exploratory data analysis(EDA), principle components analysis(PCA), multiple linear regression and logistic regression.  

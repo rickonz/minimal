@@ -5,6 +5,9 @@ categories:
   - Project
 tags: 
   - linear regression
+toc: true
+toc_sticky: true
+toc_label: "Outline"
 ---
 
 This project focuses on studying the prediction of life expectancy in the United States based on the dataset ***state.x77*** in R library, which is derived from the U.S. Department of Commerce,
