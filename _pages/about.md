@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "Me"
 ---
 
 Hi there,
