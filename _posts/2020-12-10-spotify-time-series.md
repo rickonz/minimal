@@ -176,24 +176,24 @@ $$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t = (1 - 0.9717
 Next step, we check the stationarity and invertibility of both models. 
 We plot the roots of polynomials of both the MA and AR part of the model A. All the roots are outside of the unit circle, which means the model is stationary and invertible. We plot the same graph for model B. The result shows that model B is also stationary and invertible.
 
-![fig12](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig12.png?raw=true)
+![fig12](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig12.png?raw=true)
 
-![fig13](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig13.png?raw=true)
+![fig13](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig13.png?raw=true)
 
 We then and perform more diagnostic checking on the residuals of model A and B. First we look at model A. 
 There is no trend, no seasonality or visible variance change in its residual plot. The histogram is almost Gaussian and the normal Q-Q plot looks good except for 2 data points at the tail. We verify its normality by using Shapiro-Wilk test. And it does pass the test with p-value 0.03914 < 0.05 at 95% confidence level.
 
 We also perform Box-Pierce test, Box-jung test, and Mcleod-Li test to detect any linear and non-linear correlation between residuals. The model passed three test with p-value: 0.1242, 0.09391, and 0.4296 respectively.
 
-![fig14](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig14.png?raw=true)
+![fig14](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig14.png?raw=true)
 
-![fig15](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig15.png?raw=true)
+![fig15](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig15.png?raw=true)
 
-![fig16](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig16.png?raw=true)
+![fig16](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig16.png?raw=true)
 
 Moreover, we check that all the ACF and PCF of the residuals of model A are within the confidence interval and can be counted as zeros. Fitting residuals to AR(0), we get $$\hat{\sigma_z}^2 = 0.0006107$$ which means the residuals resemble WN. Even though the other aspect of model A are have good behavior, it does not pass the test for normality of residuals. Thus, model A is not ideal for forecasting.
 
-![fig17](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig17.png?raw=true)
+![fig17](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig17.png?raw=true)
 
 ```
 > ar(res1, aic = TRUE, order.max = NULL, method = c("yule-walker"))
@@ -209,11 +209,11 @@ We then examine the diagnostic checking results for model B. The plot of residua
 
 Checking the test results formodel B, it passes Sharpiro-Wilk test with p-value 0.06824, better than model A does. It also passes other three test with p-value 0.3277, 0.2797, 0.3383 for Box-Pierce test, Box-jung test, and Mcleod-Li test respectively as they are all greater than 0.05.
 
-![fig18](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig18.png?raw=true)
+![fig18](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig18.png?raw=true)
 
-![fig19](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig19.png?raw=true)
+![fig19](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig19.png?raw=true)
 
-![fig20](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig20.png?raw=true)
+![fig20](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig20.png?raw=true)
 
 ```
 > shapiro.test(res2)  
@@ -247,7 +247,7 @@ X-squared = 11.251, df = 10, p-value = 0.3383
 
 The ACF and PACF of residuals in model B also fall in the confidence interval which can be treated as zero. And the residuals resember WN with $$\hat{\sigma_z}^2 =0.0005911$$.
 
-![fig21](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig21.png?raw=true)
+![fig21](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig21.png?raw=true)
 
 ```
 > ar(res2, aic = TRUE, order.max = NULL, method = c("yule-walker"))
@@ -269,9 +269,9 @@ We conclude our data is free of seasonality by examing original data and ACF of 
 
 We plot the periodogram for the data and residuals of our model. and does not detect any frequencies. There seems to have spikes at 0.01 and 0.03, however, the corresponding period indicated by this frequency would be 100 and 33 years, which is not reasonable since we only have data for past 100 years. Therefore, this does not provides us extra insight on the seasonality of the data. The periodogram of the residuals does not have a dominant frequency neither.
 
-![fig22](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig22.png?raw=true)
+![fig22](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig22.png?raw=true)
 
-![fig23](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig23.png?raw=true)
+![fig23](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig23.png?raw=true)
 
 We also apply Fisher's test on the residuals for the presence of hidden periodicities with unspecified frequency. The result 0.9606491 passes the test, which indicates that no periodicities detected. We then use Komolgorov-Smirnov test for cumulative periodogram of residual.The following graph shows that our residuals passed the test since our test statistics are within the boundaries. These indicate our residual resemble Gaussian white noise resulted from a well fitted model.
 
@@ -280,7 +280,7 @@ We also apply Fisher's test on the residuals for the presence of hidden periodic
 [1] 0.9606491
 ```
 
-![fig24](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig24.png?raw=true)
+![fig24](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig24.png?raw=true)
 
 
 ### 4. Data Forecasting
@@ -288,7 +288,7 @@ Based on the model we drived above, we fit our model ARIMA(6,1,2):
 $$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t = (1 - 0.9717 B + 0.4637 B^2 ) Z_t $$ 
 with the training data with 95 observations and make prediction on the next 5 observations. From the forecasting graph, we are able to see that our model correctly predict the negative trend of the engergy index and the prediction is relatively close to the true value. However, our confidence interval fail to catch all the future values. 
 
-![fig25](https://github.com/rickonz/rickonz.github.io/tree/master/projects/spotify-time-series/image/fig25.png?raw=true)
+![fig25](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig25.png?raw=true)
 
 There are one or two out of the total five data points are outside the interval. The inaccuracy here might be due to the fisrt 20 - 30 observations, which exhibit relatively stationary trend comparing to the following positive linear trend. Those data are conclude from the song track from roughly 1921-1950, where the world is undergoing an unsual time due to the instability of society, such as wars, revolutions... The amount of song track data for those period of time we have is also limited comparing to the data for later years.
 
