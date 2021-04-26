@@ -62,9 +62,9 @@ plugins:
 
 
 author:
-  name   : ""
+  # name   : 
   avatar : "/assets/images/bio-avatar.jpg"
-  bio    : ""
+  # bio    : 
   location  : "Santa Barbara, CA"
   links:
     - label: "Website"
