@@ -122,7 +122,7 @@ tag_archive:
 
 # analytics
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
-    tracking_id: "G-XTKZYP2W50"
+    tracking_id: "UA-197663565-1"
     anonymize_ip: false # default
