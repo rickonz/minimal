@@ -124,5 +124,5 @@ tag_archive:
 analytics:
   provider: "google"
   google:
-    tracking_id: "G-Y6L6VGWYXQ"
+    tracking_id: "G-XTKZYP2W50"
     anonymize_ip: false # default
