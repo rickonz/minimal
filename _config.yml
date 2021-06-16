@@ -29,6 +29,8 @@ teaser: /assets/images/500x300.png
 
 # Build settings
 markdown: kramdown
+kramdown:
+    math_engine: katex
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/

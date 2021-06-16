@@ -13,14 +13,16 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: "Outline"
-header:
-  image: ''
 ---
 
 ### Introduction 
 Predicting the winner of the U.S. presidential election has always been diffcult. People's voting tendency depends on various variables and kept changing between the time of data gathering and election day. Statisticians have been investigating patterns and related features and many polls were conducted before the election in order to predict the winner, yet, election 2016 gave us a big surprise whose result was against most predictions. Thus, it is both interesting and challenging to identify significant variables by machine learning models and make predictions as accurate as possible. 
 
-In this project, we focus on predicting the county-level winning candidate and identify the demographic variables that distinguish county clusters and associated candidancy preference. We apply logistic regression and random forest model in the prediction task and reach 92.2% acccuracy in test data. We also identify that $White$,  $\ Citizen$,  $\ Employed$, $\ Professional$, $\ Minority$ are the most influential variables to the classification models. Then, we use K-Means to cluster counties into 3 groups and analyze their demographic features difference with respect to their general candidate preference, charaterizing the demographic features of the county groups that are in favor of either caniddates.
+![fig00](https://github.com/rickonz/rickonz.github.io/blob/master/projects/us-election/fig00.jpg?raw=true)
+
+In this project, we focus on predicting the county-level winning candidate and identify the demographic variables that distinguish county clusters and associated candidancy preference. We apply logistic regression and random forest model in the prediction task and reach 92.2% acccuracy in test data. We also identify that $White$,  $\ Citizen$,  $\ Employed$, $\ Professional$, $\ Minority$ are the most influential variables to the classification models. 
+
+Then, we use K-Means to cluster counties into 3 groups and analyze their demographic features difference with respect to their general candidate preference, charaterizing the demographic features of the county groups that are in favor of either caniddates.
 
 ### Data Preparation
 We are given three sets of data: 'election_raw', 'census', and 'census_meta'. The 'election_raw' contains the number of votes of each candidate in each area (nation, state, county) which is represented by the unique $\ fips$ number. Census data contains census information in 2010. census-meta contains the type of each variable in census data.
@@ -28,7 +30,7 @@ We are given three sets of data: 'election_raw', 'census', and 'census_meta'. Th
 Since this project is based on the county-level analysis, we first select all county-level observations in election_raw.
 
 
-![table01](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/table01.png?raw=true)
+![table01](https://github.com/rickonz/rickonz.github.io/blob/master/projects/us-election/table01.png?raw=true)
 
 
 Then, we begin to clean census data by removing some variables that are highly correlated and make some adjustments to the data by converting $\ Employed$, $\ Citizen$, $\ Women$ into percentage of total population. Next step is weighting the variables by population and aggregating the census data into county level.
@@ -147,4 +149,9 @@ For a holistic review on the prediction task, we fit the logistic regression mod
 
 ### Discussion 
 
-Through the analysis from prediction and clustering model, we find accurate prediction models for predicting the winning candidate in each county and identify the relationship between essential predictive census variables and associated candidate preference. The above analysis provides a solid basis for potential further investigation on presidential election. Prospectively, we are able to aggregate our county-level result to state and nation-level, conbining with extra electorial information to make the prediction for state or final election wining candidate. Furthermore, we are also going to dive deeper into our analysis on the association between demographic features and candidate preference with more procedure, such as adding a step of original data cleaning process or introducing other methods such as PCA to help our further analysis.
+Through the analysis from prediction and clustering model, we find accurate prediction models for predicting the winning candidate in each county and identify the relationship between essential predictive census variables and associated candidate preference. The above analysis provides a solid basis for potential further investigation on presidential election. Prospectively, we are able to aggregate our county-level result to state and nation-level, conbining with extra electorial information to make the prediction for state or final election wining candidate. 
+
+Furthermore, we are also going to dive deeper into our analysis on the association between demographic features and candidate preference with more procedure, such as adding a step of original data cleaning process or introducing other methods such as PCA to help our further analysis.
+
+### Appendix
+[Predictive Analysis on 2016 U.S. Election.pdf](https://github.com/rickonz/rickonz.github.io/blob/master/projects/us-election/Predictive Analysis on 2016 U.S. Election.pdf)
