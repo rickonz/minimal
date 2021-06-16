@@ -85,7 +85,7 @@ By choosing the threshold that maximizing the corresponding Youden statistics, w
 
 Examing the total test error rate table (table.9), we come to an result of 0.078 total test error rate in logistic model with the threshold 0.794 and 0.091 test error rate in random forest model with threshold 0.79. The optimized threhold of both model are very close. In train dataset, the random forest model has lower error rate than that of logistic model, however, the latter performs 1.3% better in predicting on the testing dataset. Therefore, we choose logistic regression model to fit the entire dataset such that we can get a result of predictive election result.
 
-![table09](https://github.com/rickonz/rickonz.github.io/blob/master/projects/us-election/table09png?raw=true)
+![table09](https://github.com/rickonz/rickonz.github.io/blob/master/projects/us-election/table09.png?raw=true)
 
 By viewing the summary of logistic regression, we can directly identify 10 significant variables by checking small P-value such as $Citizen$, $\ Services$, $\ Professional$, $\ WorkAtHome$, $\ Service$, $\ Production$, $\ Drive$, $\ Carpool$, $\ Employed$, and $\ PrivateWork$. Furthermore, the formula of logistic regression easily guides us to interpret the effect of each variable. 
 
