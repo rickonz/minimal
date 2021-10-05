@@ -1,5 +1,5 @@
 ---
-title:  "How Likely Will You Get Employed?"
+title:  "Regression Analysis on Campus Recruiting"
 description: ""
 date:   2020-10-03 00:00:00 +0000
 categories: 
