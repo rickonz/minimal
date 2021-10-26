@@ -168,9 +168,9 @@ sigma^2 estimated as 0.0005848:  log likelihood = 215.66,  aic = -417.32
 [1] -413.1787
 ```
 
-At this point, we conclude our candidate model A to be ARIMA(6,1,1): $$(1+0.2314B+0.1806B^3-0.1438B^4+0.3437B^6)(1-B)X_t=(1-0.6102B)Z_t $$ 
+At this point, we conclude our candidate model A to be ARIMA(6,1,1): $$(1+0.2314B+0.1806B^3-0.1438B^4+0.3437B^6)(1-B)X_t \\ =(1-0.6102B)Z_t $$ 
 and candidate model B to be ARIMA(6,1,2):
-$$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t = (1 - 0.9717 B + 0.4637 B^2 ) Z_t $$
+$$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t \\ = (1 - 0.9717 B + 0.4637 B^2 ) Z_t $$
 
 #### **2.4 Model Diagnostic**
 Next step, we check the stationarity and invertibility of both models. 
@@ -260,7 +260,7 @@ Order selected 0  sigma^2 estimated as  0.0005911
 ```
 
 To summarize, model B perform better than model A. Model B has a slightly lower AICc than model A, but the difference is small (0.1); while Model B posses diagnostic tests with a bit higher p-value over all and possesses somewhat better shape in the residual histogram adn normal Q-Q plot. And most importantly, model A does not pass Sharpiro-Wilk test for normality, while model B passes all diagnostic test. Therefore, it is reasonable to determine model A ARIMA(6,1,2): 
-$$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t = (1 - 0.9717 B + 0.4637 B^2 ) Z_t $$
+$$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t \\ = (1 - 0.9717 B + 0.4637 B^2 ) Z_t $$
 for data forecasting.
 
 ### 3. Spectral Analysis
@@ -285,7 +285,7 @@ We also apply Fisher's test on the residuals for the presence of hidden periodic
 
 ### 4. Data Forecasting
 Based on the model we drived above, we fit our model ARIMA(6,1,2): 
-$$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t = (1 - 0.9717 B + 0.4637 B^2 ) Z_t $$ 
+$$(1 + 0.5342 B - 0.1713 B^2 - 0.2227 B^4 + 0.3637 B^6)(1 - B) X_t  \\ = (1 - 0.9717 B + 0.4637 B^2 ) Z_t $$ 
 with the training data with 95 observations and make prediction on the next 5 observations. From the forecasting graph, we are able to see that our model correctly predict the negative trend of the engergy index and the prediction is relatively close to the true value. However, our confidence interval fail to catch all the future values. 
 
 ![fig25](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig25.png?raw=true)

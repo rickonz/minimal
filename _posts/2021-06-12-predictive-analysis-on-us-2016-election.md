@@ -58,7 +58,7 @@ Our primary goal is to build prediction models for the county-level winning cand
 
 For this task we use supervised learning models to predict the winner and identify significant variables by fitting logistic regression and random forest to model the probability of two major candidate won each county. Logistic regression enables us to obtain the probability of each candidate to win the election in each county and find significant variables by $P-value$ and coefficients with high interpretability.
 
-$$\text{logit}\left[P\left(\text{Trump win}\right)_i\right] = \beta_0 + \beta_1 \text{white}_i + \cdots + \beta_{10} \text{income}_i\;,\quad \text{county } i = 1, \dots, 2148$$
+$$\text{logit}\left[P\left(\text{Trump win}\right)_i\right] = \beta_0 + \beta_1 \text{white}_i +  \\ \cdots + \beta_{10} \text{income}_i\;,\quad \text{county } i = 1, \dots, 2148$$
 
 On the other hand,random forest is a bagged decision tree estimator that gives us the class selected by most trees. Although we lose the chance of plotting the tree and some interpretability, random forest makes it up by providing a measure of variable importance in terms of variables interpretation.
 
@@ -91,7 +91,7 @@ Examing the total test error rate table (table.9), we come to an result of 0.078
 
 By viewing the summary of logistic regression, we can directly identify 10 significant variables by checking small P-value such as $Citizen$, $\ Services$, $\ Professional$, $\ WorkAtHome$, $\ Service$, $\ Production$, $\ Drive$, $\ Carpool$, $\ Employed$, and $\ PrivateWork$. Furthermore, the formula of logistic regression easily guides us to interpret the effect of each variable. 
 
-$$\text{logit}\left[P\left(\text{Trump win}\right)_i\right] =  -0.1171\ {Citizen}_i-0.3295\ {Serivice}_i-0.2532\ {Professional}_i \cdots ;,\quad \text{county } i = 1, \dots, 2148$$
+$$\text{logit}\left[P\left(\text{Trump win}\right)_i\right] =  -0.1171\ {Citizen}_i-0.3295\ {Serivice}_i \\ -0.2532\ {Professional}_i \cdots ;,\quad \text{county } i = 1, \dots, 2148$$
 
 For example from the formula above, if we have 1 unit increase of citizen, the odds will have a multiplicative change of $e^{-0.1171}$ so that the candidate will be more away to 1 and the county will prefer Clinton more.
 
