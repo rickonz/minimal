@@ -4,8 +4,8 @@ permalink: /about/
 
 Hi there,
 
-I'm **Rickon**, a rising math and stats senior at UCSB.
+I'm Rickon (Wenxuan) Zhang, a math and stats senior at UCSB.
 
-I like coffee, music, jiujistu, and data science.
+Coffee addict, jiujistu practitioner, coder, passionate about developing and data science.
 
-Check out my posts and feel free to get in touch with me!
+Would be happy to share my ideas and chat with you.

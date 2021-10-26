@@ -21,7 +21,7 @@ We will analyze the average energy index of song tracks on Spotify from 1921-202
 
 We discover that the song tracks are getting increasingly energetic over time in general and derive a time series model that allow us to forecast the average energy index in the next following years.
 
-![fig00](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig00.png?raw=true)
+![fig00](https://github.com/rickonz/rickonz.github.io/blob/master/projects/spotify-time-series/image/fig00.jpg?raw=true)
 
 
 ### 1. Introduction
