@@ -2,10 +2,12 @@
 permalink: /about/
 ---
 
-Hi there,
+Hola,
 
-I'm Rickon (Wenxuan) Zhang, a math and stats senior at UCSB.
+I'm Rickon (Wenxuan) Zhang, a math and stats senior @ UCSB
 
-Coffee addict, jiujistu practitioner, coder, passionate about developing and data science.
+Coffee addict, jiujistu practitioner, coder
 
-Would be happy to share my ideas and chat with you.
+Passionate about developing and data science
+
+Would be happy to share my ideas and chat with you
