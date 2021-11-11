@@ -3,11 +3,13 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "CV"
+    url: /cv/
+  # - title: "Categories"
+  #   url: /categories/
   #  - title: "Blog"
   #   url: /blog/
   #  - title: "Projects"
   #   url: /projects/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Tags"
+  #   url: /tags/
