@@ -83,7 +83,7 @@ Served as an official representative of the university; communicated with studen
 **May 2020 - May 2021**    
 *Editorial Board | Web Editor*  
 
-Managed the Bottom Line website and monitor website performance as an editorial board member; integrated Covid-19 tracking widget as a reliable source for monitoring local pandemic situation
+Managed the Bottom Line website as an editorial board member; analyzed user behavior and content consumption to faciliate user acquisition and engagement; integrated Covid-19 tracking widget as a reliable source for monitoring local pandemic situation
 
 ## AWARDS & QUALIFICATIONS
 - Dean’s Honors (L&S): Winter 2019, Winter 2020
