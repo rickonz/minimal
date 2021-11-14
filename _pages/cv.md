@@ -3,9 +3,9 @@ title: "CV"
 permalink: /cv/
 ---
 
-## Education
+## EDUCATION
 
-**University of California, Santa Barbara  | Sep 2018 - Mar 2022** 
+**University of California, Santa Barbara  | Sep 2018 - Mar 2022**   
 *BS in Statistics and Data Science & Applied Mathematics*  
 - GPA: Major 3.8/4.0, Overall: 3.63/4.0  
 - College of Letter Science Honors  
@@ -20,13 +20,13 @@ Advanced Linear Algebra, Numerical Analysis, Ordinary Differential Equation, Fin
 - Computer Science:
 Programming Methodology with Java (Stanford Online), Data Structure and Algorithm (Stanford Online -Coursera), iOS Development (CodePath.org)
 
-## Research
+## RESEARCH
 
 **Mathematical Theory and Implementation of Deep Leaning**                                 
 
 Developed solid comprehension of the essential mathematical theory in deep learning in the paper discussion group of Professor Nils Detering. Implemented model simulation, parametrization and approximation task using TensorFlow in understanding different algorithms errors and hyperparameter tuning
 
-## Projects
+## PROJECTS
 
 **Predictive Analysis on 2016 U.S. Election – Machine Learning**                         
 
@@ -37,7 +37,7 @@ Aggregated 2016 U.S. election data and 2010 census data; Built logistic regressi
 Collected 160k+ songs data from 1921 to 2020 with Spotify API; Analyzed the relationship between characteristics and popularity of songs; Forecasted the energy index of top popular songs each year with time series model
 
 
-## Experience
+## EXPERIENCES
 
 **UCSB Probability and Statistics Department**  
 **Sep 2021 - Present | Santa Barbara, CA**
@@ -77,7 +77,7 @@ Collaborated in a scrum development team to ensure the quality of upgrading repo
 Served as an official representative of the university; communicated with students and parents on topic related to academic advising, student life, and campus recourses 
 
 
-## **Involvement**
+## **INVOLVEMENTS**
 
 **UCSB The Bottom Line Newspaper**  
 **May 2020 - May 2021**    
