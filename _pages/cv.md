@@ -54,9 +54,9 @@ Operated A/V equipment and provided technical support, including software and ha
 **DiDi Global Inc.**  
 International Business Group - Hongkong Team  
 **Jan 2021 - Apr 2021 | Guangzhou, CN**   
-*Data Analyst Intern - Operation*  
+*Software Engineer Intern - Operation*  
 
-Constructed operation data monitoring system from scratch in International Business Group – Hongkong Team; facilitated workflow with automated data processing scripts, data visualization dashboard and case data analysis
+Constructed operation data monitoring system from scratch in International Business Group – Hongkong Team; facilitated workflow with automated data pipeline, data visualization dashboard
 
 **UCSB College of Creative Studies**  
 **Sep 2020 - Dec 2020 | Santa Barbara, CA**    
