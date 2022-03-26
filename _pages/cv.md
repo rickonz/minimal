@@ -7,24 +7,27 @@ permalink: /cv/
 
 **University of California, Santa Barbara  | Sep 2018 - Mar 2022**   
 *BS in Statistics and Data Science & Applied Mathematics*  
-- GPA: Major 3.8/4.0, Overall: 3.63/4.0  
-- College of Letter Science Honors  
+- Major GPA 3.8/4.0
+- College of Letter Science Honors Program
 
-Relevant Coursework:
+Courseworks:
 - Statistics:
-Regression Analysis, Statistical Data Science, Machine Learning, Bayesian Data Analysis, Time Series, Stochastic Process
+Regression Analysis, Statistical Data Science, Machine Learning (Graduate Level), Bayesian Data Analysis, Time Series (Graduate Level), Stochastic Process (Honors)
 
-- Math: 
-Advanced Linear Algebra, Numerical Analysis, Ordinary Differential Equation, Financial Mathematic, Microeconomic, Real Analysis
+- Mathematics: 
+Advanced Linear Algebra (Honors), Numerical Analysis, , Real Analysis, Ordinary Differential Equation, Financial Mathematic
 
 - Computer Science:
-Programming Methodology with Java (Stanford Online), Data Structure and Algorithm (Stanford Online -Coursera), iOS Development (CodePath.org)
+Programming Methodology with Java, Data Structure and Algorithm, iOS Development 
 
 ## RESEARCH
 
-**Mathematical Theory and Implementation of Deep Leaning**                                 
+**Hyperparameter Tuning in Deep Learning - Independent Research**                                 
 
-Developed solid comprehension of the essential mathematical theory in deep learning in the paper discussion group of Professor Nils Detering. Implemented model simulation, parametrization and approximation task using TensorFlow in understanding different algorithms errors and hyperparameter tuning
+Advisor: [Nils Detering](https://www.pstat.ucsb.edu/people/nils-christian-detering), Associate Professor 
+
+- Evaluated the structure (nodes, layers, activation functions), learning process (gradient descent, backpropagation), and expressive power (Universal Approximation) of Feedforward Neural Networks  
+- Simulated Feedforward Neural Network on classifying handwritten digits using TensorFlow, and fine- tuned hyperparameters such as width, depth, learning rate, batch size to maximize classification accuracy
 
 ## PROJECTS
 
@@ -38,62 +41,64 @@ Collected 160k+ songs data from 1921 to 2020 with Spotify API; Analyzed the rela
 
 
 ## EXPERIENCES
+**UCSB Movement Data Science Lab**  
+*12/2021 - Present | Santa Barbara, CA*  
+**Research Assistant - Python Developer**
+
+- Constructed Postgre databases with temporal and spatial data for animal trajectory research
+- Developed data modeling and visualizations python library VASA for analyzing the relationship between non-pharmaceuticals interventions (NPIs) mobility metrics and Covid-19 virus transmission
 
 **UCSB Probability and Statistics Department**  
-**Sep 2021 - Present | Santa Barbara, CA**
-*Undergraduate Learning Assistant* 
+*09/2021 - 03/2022 | Santa Barbara, CA*  
+**Undergraduate Learning Assistant - Data Science**
 
-Tutored students on implementing data retrieval, cleaning, and visualization knowledge using Python Pandas package. Hosted weekly office hours to troubleshoot runtime or logic errors appeared in students’ assignments and projects
-
-**UCSB Instructional Development**  
-**Jan 2020 – Present | Santa Barbara, CA**    
-*IT Student Assistant*  
-
-Operated A/V equipment and provided technical support, including software and hardware troubleshooting, to instructors teaching in 4 lecture room in Buchanan Hall, in-person and through online help desk
+- Tutored students on data retrieval, cleaning, and visualization using Python Pandas, matplotlibs, altair
+- Tutored students on Bayesian Statistics and Markov Chain Monte Carlo implementation in R
 
 **DiDi Global Inc.**  
 International Business Group - Hongkong Team  
-**Jan 2021 - Apr 2021 | Guangzhou, CN**   
-*Software Engineer Intern - Operation*  
+*01/2021 - 04/2021 | Guangzhou, CN*     
+**Software Engineer Intern**  
 
-Constructed operation data monitoring system from scratch in International Business Group – Hongkong Team; facilitated workflow with automated data pipeline, data visualization dashboard
-
-**UCSB College of Creative Studies**  
-**Sep 2020 - Dec 2020 | Santa Barbara, CA**    
-*Course Assistant and Peer Advisor*  
-
-Assisted professor Kara Brown with WRIT 107WC course preparation and peer advising on writing projects
+- Automated data cleaning pipeline across millions of raw records using Python, which saved 45 hours of manual work per month
+- Optimized SQL queries and code logic, which reduced run time by 32%
+- Communicated with the marketing team to understand business needs, developed the business intelligence dashboards from scratch, which allowed 18 team members to make data-driven decisions
 
 **AppFolio, Inc.**  
-**Jun 2020 - Sep 2020 | Santa Barbara, CA**    
-*Software Quality Assurance Engineer Intern*  
+*06/2020 - 09/2020 | Santa Barbara, CA*      
+**Software Quality Assurance Engineer Intern**  
 
-Collaborated in a scrum development team to ensure the quality of upgrading reporting framework with agile methodologies, enhancing the performance of AppFolio’s cloud-based SaaS products. Applied exploratory, black/white box, and regression testing on web application functions, promptly identified, isolated, and traced production bugs
+- Collaborated with a 5-people agile development team to ensure low bug rate during upgrading reports framework, which enhanced the usability and accessibility for diverse clients
+- Leveraged exploratory, black/white box, and regression testing on the migration of 150 reports, which reduced 50% of customer-reported bugs
+- Automated 30% test cases with Selenium WebDriver, which advanced the completion of reports
+migration project by 2 weeks
 
 **UCSB Orientation Program**  
-**Apr 2019 - Aug 2019 | Santa Barbara, CA**    
-*Orientation Leader*  
+*04/2019 - 08/2019 | Santa Barbara, CA*      
+**Orientation Leader**  
 
-Served as an official representative of the university; communicated with students and parents on topic related to academic advising, student life, and campus recourses 
+- Served as an official representative of the university; communicated with students and parents on topic related to academic advising, student life, and campus recourses 
 
 
 ## **INVOLVEMENTS**
 
 **UCSB The Bottom Line Newspaper**  
-**May 2020 - May 2021**    
-*Editorial Board | Web Editor*  
+*05/2020 - 05/2021*    
+**Editorial Board | Web Editor**  
 
-Managed the Bottom Line website as an editorial board member; analyzed user behavior and content consumption to faciliate user acquisition and engagement; integrated Covid-19 tracking widget as a reliable source for monitoring local pandemic situation
+- Managed the Bottom Line website as an editorial board member; analyzed user behavior and content consumption to faciliate user acquisition and engagement; integrated Covid-19 tracking widget as a reliable source for monitoring local pandemic situation
 
 ## AWARDS & QUALIFICATIONS
 - Dean’s Honors (L&S): Winter 2019, Winter 2020
+- Academic Excellence Awards
 
+- [Stanford Algorithm Specification](https://www.coursera.org/account/accomplishments/specialization/UV5W5VMZAAHU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
+- [iOS Development - Certificate of Achievement](https://drive.google.com/file/d/1Gawro8o8nC2X9NQQvTaApBZmjb94yYx6/view)
 - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/K3U6ZiMkUHIZQrBRmOJjuIx8)
-
 
 ## SKILLS SUMMARY
 
-1. Technical: Proficient in Python; Intermediate R, SQL; Familiarity with Tableau, C++
+1. Technical: Proficient in Python, R, SQL; Intermediate Java, Tableau; Familiarity with C++
 2. Teamwork: Facilitated work in both small size software development team (6 people) and large size orientation staff team (30+ people)
 3. Communication: Extensive experience in effective and efficient communication with peers, parents, professors, and colleagues
-4. Language: Native Chinese; Fluent in English; Basic Spanish
+4. Language: Native Chinese; Fluent in English; Conversational Spanish
