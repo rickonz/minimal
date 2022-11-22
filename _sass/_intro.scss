@@ -1,0 +1,105 @@
+.icon {
+  // margin-right: 15px;
+  color: #515151;
+  font-size: 1.25em;
+}
+
+.intro {
+  display: flex;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  flex-flow: row wrap;
+}
+
+.intro-title {
+  margin-left: 5rem;
+  font-weight: 500 !important;
+  font-size: 2.15em;
+  padding-bottom: 5px;
+  font-family: Garamond, Georgia, "Times New Roman", Times, serif;
+}
+
+.intro-text {
+  flex: 1;
+  padding-right: 25px;
+}
+
+.intro-image {
+  flex: 0 0 220px;
+  margin: 0 auto;
+}
+
+.intro-image-links-color {
+  color: #515151;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+}
+
+.intro-image-links {
+  // padding-left: 8px;
+  // padding-right: 8px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 14px;
+}
+
+.intro-cv-wrapper {
+  text-align: center;
+  font-size: 14px;
+}
+
+.intro-cv {
+  border: 1px rgba(0, 0, 0, 0.12) solid;
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.intro-cv:hover {
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.25), 0 5px 5px rgba(0, 0, 0, 0.22);
+}
+.title-logo {
+  display: inline;
+  width: 200px;
+  vertical-align: top;
+}
+.intro-logo {
+  display: inline;
+  width: 21px;
+  vertical-align: middle;
+}
+
+.everything-else {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  max-width: 45rem;
+}
+
+@media screen and (max-width: $on-laptop) {
+  .intro {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .intro-title {
+    margin-left: 1rem;
+  }
+  .everything-else {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+}
+
+@media screen and (max-width: $on-phone) {
+  .intro-title {
+    margin-bottom: 25px;
+  }
+  .intro-text {
+    order: 2;
+    flex: 0 0 100%;
+    padding-right: 0;
+  }
+  .intro-image {
+    order: 1;
+    padding-bottom: 20px;
+  }
+}

@@ -1,0 +1,15 @@
+<p style="margin-bottom: 1rem">
+    <strong> {{ title.name }} </strong>
+    <br>
+    {% for talk in title.items %}
+    <span class="cv-left-date">{{ talk.year }}</span>{{ talk.location }}<br>
+    {% if talk.video %}
+    <span class="pub-misc">
+        <a href="{{ talk.video }}">
+            <i class="fas fa-film" aria-hidden="true"></i> Video
+        </a>
+    </span>
+    {% endif %}
+    <br>
+    {% endfor %}
+</p>

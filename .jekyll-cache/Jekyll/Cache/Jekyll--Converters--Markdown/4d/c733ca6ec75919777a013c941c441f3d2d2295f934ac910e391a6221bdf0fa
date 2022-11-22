@@ -1,0 +1,197 @@
+I"�
+<h1 id="the-nuclear-network-multiplex-network-analysis-for-interconnected-systems">The nuclear network: multiplex network analysis for interconnected systems</h1>
+<p>
+
+  
+    
+<a href="https://nuc.berkeley.edu/people/bethany-goldblum/">Bethany L. Goldblum</a>,
+  
+
+  
+    
+Andrew W. Reddie,
+  
+
+  
+    
+Thomas C. Hickey,
+  
+
+  
+    
+James E. Bevins,
+  
+
+  
+    
+Sarah Laderman,
+  
+
+  
+    
+Nathaniel Mahowald,
+  
+
+  
+    
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+  
+
+  
+    
+Elie Katzenson,
+  
+
+  
+    
+Yara Mubarak
+  
+
+</p>
+
+<figure>
+    <img class="single" src="/images/papers/nuclear-network.png" />
+    <figcaption class="single">
+      An illustrative multiplex network of proliferation-relevant determinants, with layers from top to bottom showing the NCAs, alliances, conflict, and trade relationships between nodes. Panel a shows a schematic network representation, where the nodes represent states. These nodes participate in all network layers, but the relationships between nodes (edges) are unique in each layer based on the relevant interstate relations. Panel b shows the full network representation of the model for the year 1980, built using open-source data.
+
+
+    </figcaption>
+</figure>
+
+<h2 id="abstract">Abstract</h2>
+<p>States facing the decision to develop a nuclear weapons program do so within a broader context of their relationships with other countries. How these diplomatic, economic, and strategic relationships impact proliferation decisions, however, remains under-specified. Adding to the existing empirical literature that attempts to model state proliferation decisions, this article introduces the first quantitative heterogeneous network analysis of how networks of conflict, alliances, trade, and nuclear cooperation interact to spur or deter nuclear proliferation. Using a multiplex network model, we conceptualize states as nodes linked by different modes of interaction represented on individual network layers. Node strength is used to quantify factors correlated with nuclear proliferation and these are combined in a weighted sum across layers to provide a metric characterizing the proliferation behavior of the state. This multiplex network modeling approach provides a means for identifying states with the highest relative likelihood of proliferation—based only on their relationships to other states. This work demonstrates that latent conflict and nuclear cooperation are positively correlated with proliferation, while an increased trade dependence suggests a decreased proliferation likelihood. A case study on Iran’s controversial nuclear program and past nuclear activity is also provided. These findings have clear, policy-relevant conclusions related to alliance posture, sanctions policy, and nuclear assistance.</p>
+
+<h2 id="citation">Citation</h2>
+<p>
+
+	<strong>The nuclear network: multiplex network analysis for interconnected systems</strong>
+
+
+<br />
+
+
+	
+		
+<a href="https://nuc.berkeley.edu/people/bethany-goldblum/">Bethany L. Goldblum</a>,
+	
+
+	
+		
+Andrew W. Reddie,
+	
+
+	
+		
+Thomas C. Hickey,
+	
+
+	
+		
+James E. Bevins,
+	
+
+	
+		
+Sarah Laderman,
+	
+
+	
+		
+Nathaniel Mahowald,
+	
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+Elie Katzenson,
+	
+
+	
+		
+Yara Mubarak
+	
+
+
+<br />
+
+<i>Applied Network Science volume 4, Article number: 36 (2019).  2019.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="/papers/nuclear-network">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://link.springer.com/content/pdf/10.1007/s41109-019-0141-4.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+
+
+
+</p>
+
+<h2 id="bibtex">BibTeX</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+@article{goldblum2019nuclear,
+title={The nuclear network: multiplex network analysis for interconnected systems},
+author={Goldblum, Bethany L and Reddie, Andrew W and Hickey, Thomas C and Bevins, James E and Laderman, Sarah and Mahowald, Nathaniel and Wright, Austin P and Katzenson, Elie and Mubarak, Yara},
+journal={Applied Network Science},
+volume={4},
+number={1},
+pages={36},
+year={2019},
+publisher={Springer}
+}
+
+</code></pre></div></div>
+:ET

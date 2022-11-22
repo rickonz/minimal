@@ -1,0 +1,24 @@
+- degree: "Ph.D. in Machine Learning"
+  institution: Georgia Institute of Technology
+  advisor: Duen Horng (Polo) Chau
+  years: "Fall 2019 —"
+  years-extra: "Present"
+  institution-url: https://www.gatech.edu/
+
+- degree: "Msc. in Computing with Specialism in Machine Learning"
+  institution: Imperial College London
+  years: "Fall 2018 —"
+  years-extra: "Fall 2019"
+  thesis: "Comparison of Syntactic and Semantic Representations of Programs in Neural Embeddings"
+  thesis-link: https://arxiv.org/pdf/2001.09201.pdf
+  institution-url: https://www.imperial.ac.uk/
+  description:
+    - "Degree Class: Merit"
+
+- degree: "B.A. in Physics and Computer Science"
+  years: "Fall 2014 — "
+  years-extra: "Spring 2018"
+  institution: University of California, Berkeley
+  description:
+    - "Overall GPA: 3.63 Physics GPA: 3.59  CS GPA: 3.87"
+  institution-url: https://www.berkeley.edu/

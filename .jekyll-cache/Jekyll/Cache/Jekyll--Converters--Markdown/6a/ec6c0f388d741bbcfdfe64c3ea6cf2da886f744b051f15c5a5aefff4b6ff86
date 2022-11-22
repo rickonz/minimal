@@ -1,0 +1,173 @@
+I"�
+<h1 id="disparate-data-integration-for-advanced-facility-monitoring">Disparate Data Integration for Advanced Facility Monitoring</h1>
+<p>
+
+  
+    
+<a href="https://www.researchgate.net/scientific-contributions/2008117610_Karen_A_Miller">Karen Ann Miller</a>,
+  
+
+  
+    
+Kendra Lu Van Buren,
+  
+
+  
+    
+Janette Rose Frigo,
+  
+
+  
+    
+Max Zeyen,
+  
+
+  
+    
+Joshua P. Sackos,
+  
+
+  
+    
+Paul Michael Mendoza,
+  
+
+  
+    
+<a href="http://austinpwright.com">Austin P. Wright</a>
+  
+
+</p>
+
+<figure>
+    <img class="single" src="/images/papers/data-integration.png" />
+    <figcaption class="single">
+      
+
+    </figcaption>
+</figure>
+
+<h2 id="abstract">Abstract</h2>
+<p>The International Atomic Energy Agency (IAEA) must ensure the peaceful use of all nuclear materials with a budget that has been compared in size to that of the police department in Vienna. This includes, for example, coverage of nearly 1,300 nuclear facilities spread around the globe and verification of over 200,000 significant quantities of nuclear material. The amount of information the IAEA collects is on an upward trajectory, and data overload is poised to be an ever- increasing stress on the IAEA’s ability to perform its safeguards mission. Los Alamos National Laboratory (LANL) has been investing over the past several years in experimental studies within a number of its unique facilities to characterize activity patterns and operational modes using automated methods for disparate data integration. Building on the success of these preliminary studies, there is currently an effort funded by the Laboratory-Directed Research and Development (LDRD) Program at Los Alamos to develop a testbed at one of the laboratory’s radiological facilities for advancing this work, specifically aimed at safeguards-relevant data streams. The overarching goal of this work is to develop and experimentally validate methods to improve the efficiency and effectiveness of safeguards verification at nuclear facilities, which will allow the IAEA to better utilize the data it is already collecting. The paper describes work that has been completed to date as well as implications for future areas of research.</p>
+
+<h2 id="citation">Citation</h2>
+<p>
+
+	<strong>Disparate Data Integration for Advanced Facility Monitoring</strong>
+
+
+<br />
+
+
+	
+		
+<a href="https://www.researchgate.net/scientific-contributions/2008117610_Karen_A_Miller">Karen Ann Miller</a>,
+	
+
+	
+		
+Kendra Lu Van Buren,
+	
+
+	
+		
+Janette Rose Frigo,
+	
+
+	
+		
+Max Zeyen,
+	
+
+	
+		
+Joshua P. Sackos,
+	
+
+	
+		
+Paul Michael Mendoza,
+	
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>
+	
+
+
+<br />
+
+<i>IAEA Symposium on International Safeguards.  2018.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="/papers/data-integration">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://media.superevent.com/documents/20181030/74ca5cfd51f7b16bfd88bf3288b3bc86/id234_miller_paper.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+
+
+
+</p>
+
+<h2 id="bibtex">BibTeX</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+@article{millerdisparate,
+title={DISPARATE DATA INTEGRATION FOR ADVANCED FACILITY MONITORING},
+author={MILLER, KAREN A and VAN BUREN, KENDRA L and FRIGO, JANETTE R and ZEYEN, MAX and SACKOS, JOSHUA P and MENDOZA, PAUL M and WRIGHT, AUSTIN P}
+author={Goldblum, Bethany L and Reddie, Andrew W and Hickey, Thomas C and Bevins, James E and Laderman, Sarah and Mahowald, Nathaniel and Wright, Austin P and Katzenson, Elie and Mubarak, Yara},
+journal={IAEA Symposium on International Safeguards},
+year={2018},
+}
+
+</code></pre></div></div>
+:ET

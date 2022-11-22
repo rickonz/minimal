@@ -1,0 +1,336 @@
+I"´<div>
+<a href="https://wenxuanzhang.com">
+</a>
+</div>
+
+<h1 class="intro-title">Wenxuan Zhang</h1>
+
+<!-- <nav>
+	<div class="nav">
+	
+		<a href="/">Home</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+	
+		<a href="/cv">CV</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+	
+		<a href="/cv#publications">Publications</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;
+	
+	</div>
+</nav> -->
+
+<div class="intro">
+	
+<div class="intro-text">
+    <p>
+    Iâ€™m a M.S. in Computational Science and Engineering student in the <a href="http://www.cc.gatech.edu" title="Georgia Tech College of Computing">College of Computing</a> at <a href="http://www.gatech.edu" title="Georgia Tech">Georgia Tech</a>. 
+    </p>
+    <p>
+
+    </p>
+    
+</div>
+
+<div class="intro-image">
+  <img src="/images/portrait.jpg" style="border-radius: 4px;" />
+
+  <div class="intro-image-links">
+    
+    
+    
+    
+    <div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="mailto:apwright@gatech.edu"><i class="fas fa-envelope icon" aria-hidden="true" style="color: #515151"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="mailto:apwright@gatech.edu">apwright@gatech.edu</a>
+	</div>
+</div>
+    
+    
+    
+    <div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://twitter.com/austin_p_wright"><i class="fab fa-twitter icon" aria-hidden="true" style="color: #1da1f2"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://twitter.com/austin_p_wright">@austin_p_wright</a>
+	</div>
+</div>
+    
+    
+    
+    <div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://github.com/APWright"><i class="fab fa-github icon" aria-hidden="true" style="color: #6e5494"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://github.com/APWright">github.com/APWright</a>
+	</div>
+</div>
+    
+    
+    
+    <div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://scholar.google.com/citations?user=fow4eKkAAAAJ&amp;hl=en"><i class="fa fa-graduation-cap icon" aria-hidden="true" style="color: #515151"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://scholar.google.com/citations?user=fow4eKkAAAAJ&amp;hl=en">Google Scholar</a>
+	</div>
+</div>
+    
+    
+    
+    
+</div>
+
+<div class="intro-cv-wrapper">
+    <a href="/cv" style="color: #515151">
+    <span class="intro-cv">
+    Here's my CV.
+    </span></a>
+</div>
+
+</div>
+
+</div>
+
+<!-- <div style="padding-top:15px;"></div> -->
+
+<hr style="margin-left: 0;" />
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="cover-image"&gt;
+	&lt;a href="https://arxiv.org/abs/2102.04427"&gt;
+		&lt;img src="/images/papers/21-recast-cscw.png"&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="cover-inner"&gt;
+
+	&lt;div class="cover-top"&gt;
+
+		&lt;div class="cover-title"&gt;
+			&lt;a href="https://arxiv.org/abs/2102.04427" target="_blank"&gt;RECAST&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;div class="cover-subtitle"&gt;Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization&lt;/div&gt;
+
+		&lt;div class="cover-venue"&gt;
+			
+			
+			
+			2021
+		&lt;/div&gt;
+
+	&lt;/div&gt;
+
+	&lt;div class="cover-footer-wrapper"&gt;
+		&lt;div class="cover-links"&gt;
+
+			&lt;span class="pub-misc"&gt;
+
+				
+
+				
+				&lt;a href="https://arxiv.org/abs/2102.04427"&gt;
+					&lt;i class="fas fa-link" aria-hidden="true"&gt;&lt;/i&gt; Project
+				&lt;/a&gt;
+				
+
+				
+
+				
+				&lt;a href="https://arxiv.org/pdf/2102.04427"&gt;
+					&lt;i class="fas fa-file-pdf" aria-hidden="true"&gt;&lt;/i&gt; PDF
+				&lt;/a&gt;
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+				
+			&lt;/span&gt;
+
+		&lt;/div&gt;
+</code></pre></div></div>
+
+<!--         <div class="cover-year">
+        	
+        	<br>
+            2021
+        </div> -->
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;/div&gt;
+
+&lt;/div&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;)</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="cover-image"&gt;
+	&lt;a href="https://ai-open-guidelines.readthedocs.io"&gt;
+		&lt;img src="/images/papers/20-guidelines-survey.png"&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="cover-inner"&gt;
+
+	&lt;div class="cover-top"&gt;
+
+		&lt;div class="cover-title"&gt;
+			&lt;a href="https://ai-open-guidelines.readthedocs.io" target="_blank"&gt;AI Guidlines Survey&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;div class="cover-subtitle"&gt;Survey of AI Design Guidleines&lt;/div&gt;
+
+		&lt;div class="cover-venue"&gt;
+			
+			
+			
+			2020
+		&lt;/div&gt;
+
+	&lt;/div&gt;
+
+	&lt;div class="cover-footer-wrapper"&gt;
+		&lt;div class="cover-links"&gt;
+
+			&lt;span class="pub-misc"&gt;
+
+				
+
+				
+				&lt;a href="https://ai-open-guidelines.readthedocs.io"&gt;
+					&lt;i class="fas fa-link" aria-hidden="true"&gt;&lt;/i&gt; Project
+				&lt;/a&gt;
+				
+
+				
+
+				
+				&lt;a href="https://arxiv.org/pdf/2010.11761"&gt;
+					&lt;i class="fas fa-file-pdf" aria-hidden="true"&gt;&lt;/i&gt; PDF
+				&lt;/a&gt;
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+				
+			&lt;/span&gt;
+
+		&lt;/div&gt;
+</code></pre></div></div>
+
+<!--         <div class="cover-year">
+        	
+        	<br>
+            2020
+        </div> -->
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;/div&gt;
+
+&lt;/div&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;)</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;div class="cover-image"&gt;
+	&lt;a href="/papers/nuclear-network"&gt;
+		&lt;img src="/images/papers/nuclear-network.png"&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="cover-inner"&gt;
+
+	&lt;div class="cover-top"&gt;
+
+		&lt;div class="cover-title"&gt;
+			&lt;a href="/papers/nuclear-network" target="_blank"&gt;Nuclear Network&lt;/a&gt;
+		&lt;/div&gt;
+
+		&lt;div class="cover-subtitle"&gt;Multiplex Network Analysis for Interconnected Systems&lt;/div&gt;
+
+		&lt;div class="cover-venue"&gt;
+			
+			
+			
+			2019
+		&lt;/div&gt;
+
+	&lt;/div&gt;
+
+	&lt;div class="cover-footer-wrapper"&gt;
+		&lt;div class="cover-links"&gt;
+
+			&lt;span class="pub-misc"&gt;
+
+				
+
+				
+				&lt;a href="/papers/nuclear-network"&gt;
+					&lt;i class="fas fa-link" aria-hidden="true"&gt;&lt;/i&gt; Project
+				&lt;/a&gt;
+				
+
+				
+
+				
+				&lt;a href="https://link.springer.com/content/pdf/10.1007/s41109-019-0141-4.pdf"&gt;
+					&lt;i class="fas fa-file-pdf" aria-hidden="true"&gt;&lt;/i&gt; PDF
+				&lt;/a&gt;
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+				
+			&lt;/span&gt;
+
+		&lt;/div&gt;
+</code></pre></div></div>
+
+<!--         <div class="cover-year">
+        	
+        	<br>
+            2019
+        </div> -->
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    &lt;/div&gt;
+
+&lt;/div&gt;
+</code></pre></div></div>
+<p>&lt;/div&gt;)</p>
+
+:ET

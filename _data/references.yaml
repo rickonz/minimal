@@ -1,0 +1,35 @@
+- name: Polo Chau
+  position: Associate Professor
+  group: School of Computational Science and Engineering
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "cc.gatech.edu/~dchau/"
+  url: "https://cc.gatech.edu/~dchau/"
+
+- name: Steven A. Summner
+  position: Senior Advisor for Data Science and Innovation
+  group: National Center for Injury Prevention and Control
+  institution: Centers for Disease Control and Prevention
+  location: Atalnta, GA, USA
+  phd: true
+  website: "www.cdc.gov/injury/pressroom/fullbios_subjectmatterexperts/bio_StevenSumner"
+  url: "https://www.cdc.gov/injury/pressroom/fullbios_subjectmatterexperts/bio_StevenSumner.html"
+  
+- name: Scott Davidoff
+  position: Human-Computer Interaction Researcher
+  group: Human Interfaces Group
+  institution: NASA Jet Propulsion Lab
+  location: Pasadena, CA, USA
+  phd: true
+  website: "scottdavidoff.com"
+  url: "http://scottdavidoff.com/research"
+
+- name: Scott Jacques
+  position: Associate Professor
+  group: Department of Criminal Justice & Criminology
+  institution: Georgia State University
+  location: Atlanta, GA, USA
+  phd: true
+  website: "aysps.gsu.edu/profile/scott-jacques/"
+  url: "https://aysps.gsu.edu/profile/scott-jacques/"

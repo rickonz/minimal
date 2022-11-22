@@ -1,0 +1,33 @@
+#- id: guidelines
+#  title: "A Comparative Analysis of Industry Human-AI Interaction Guidelines"
+#  authors:
+#    - Austin P. Wright
+#    - Zijie J. Wang
+#    - Haekyu Park
+#    - Grace Guo
+#    - Fabian Sperrle
+#    - Mennatallah El-Assady
+#    - Alex Endert
+#    - Daniel Keim
+#    - Duen Horng Chau
+#  venue: IEEE VIS, Workshop on TRust and EXpertise in Visual Analytics
+#  year: 2020
+#  url: https://ai-open-guidelines.readthedocs.io
+#  pdf: https://arxiv.org/pdf/2010.11761
+#  type: arxiv
+#  feature-title: AI Guidlines Survey
+#  feature-description: Survey of AI Design Guidleines
+#  featured: true
+#  selected: true
+#  image: /images/papers/20-guidelines-survey.png
+#  bibtex: |-
+#
+#    @misc{wright2020comparative,
+#      title={A Comparative Analysis of Industry Human-AI Interaction Guidelines},
+#      author={Austin P. Wright and Zijie J. Wang and Haekyu Park and Grace Guo and Fabian Sperrle and Mennatallah El-Assady and Alex Endert and Daniel Keim and Duen Horng Chau},
+#      year={2020},
+#      eprint={2010.11761},
+#      archivePrefix={arXiv},
+#      primaryClass={cs.HC}
+#    }
+

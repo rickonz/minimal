@@ -1,0 +1,75 @@
+- institution: NASA Jet Propulsion Laboratory
+  location: "Remote"
+  position: "Intern"
+  group: "Data Visualization"
+  year: "Summer 2020"
+  mentors:
+    - Scott Davidoff
+  description: "Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and spuring ongoing follow on work at JPL."
+  institution-url: https://www.jpl.nasa.gov/
+  group-url: http://datavis.caltech.edu/
+  type: gov
+
+- institution: Centers for Disease Control and Prevention
+  location: "Chamblee, GA"
+  position: ORISE Fellow
+  group: "National Center for Injury Prevention and Control"
+  year: "Fall 2019 —"
+  year-extra: "Present"
+  mentors:
+    - Steve Sumner
+  description: "Introduced natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic."
+  institution-url: https://www.cdc.gov
+  group-url: https://www.cdc.gov/injury/index.html
+  type: gov
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Graduate Research Assistant
+  group: School of Computational Science and Engineering
+  year: "Fall 2019 —"
+  year-extra: "Present"
+  mentors:
+    - Duen Horng (Polo) Chau
+  advisor: true
+  description: "Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data."
+  institution-url: http://gatech.edu
+  group-url: http://cse.gatech.edu
+  type: academic
+
+- institution: Los Alamos National Laboratory
+  location: "Los Alamos, NM"
+  position: Graduate Researcher
+  group: "Dr. G. Robert Keepin Nonproliferation Summer School"
+  year: "Summer 2018"
+  mentors:
+    - Karen Miller
+  description: "Designed and built machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion."
+  institution-url: https://www.lanl.gov/
+  group-url: https://www.lanl.gov/collaboration/internships/service-academy-research-associates/_assets/doc/Summer_School.pdf
+  type: gov
+
+- institution: Nuclear Science and Security Consortium
+  location: "Berkeley, CA"
+  position: Undergraduate Affiliate
+  group: "Complex Systems Group"
+  year: "Winter 2017 —"
+  year-extra: "Spring 2018"
+  mentors:
+    - Bethany Goldblum
+  description: "Developed multiplex network modeling for nuclear nonproliferation and multisensor security systems, with a focus on machine learning in particular deep recurrent neural networks."
+  institution-url: https://nssc.berkeley.edu/
+  group-url: https://complexity.berkeley.edu/
+  type: academic
+
+- institution: CITRIS and the Banatao Institute
+  location: "Berkeley, CA"
+  position: Undergraduate Research Assistant
+  group: "Phoebe A. Hearst Museum of Anthropology"
+  year: "Summer 2017"
+  mentors:
+    - Chris Hoffman
+  description: "Lead creation of novel photogrammetry pipeline for Phoebe A Hearst Museum of Anthropology in collaboration with the CITRIS Pacific Research Platform."
+  institution-url: https://citris-uc.org/
+  group-url: https://hearstmuseum.berkeley.edu/
+  type: academic

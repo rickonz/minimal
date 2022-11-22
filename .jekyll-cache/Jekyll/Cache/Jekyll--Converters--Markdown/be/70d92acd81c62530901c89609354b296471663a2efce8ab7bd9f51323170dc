@@ -1,0 +1,1796 @@
+I"�x<div>
+<a href="https://austinpwright.com">
+<img class="title-logo" src="/images/apw_logo.svg" />
+</a>
+</div>
+
+<h1><a style="color: #313131; font-weight: 500; font-size: 1.25em" href="https://austinpwright.com">Austin P. Wright</a></h1>
+
+<p><span class="cv-subtitle">
+<em><span class="cv-ai">Civic AI</span> + <span class="cv-soc">Social Computing</span> researcher</em>
+</span></p>
+
+<p><span class="cv-max-width">
+I’m a Ph.D. student in the <a href="http://www.cc.gatech.edu" title="GT College of Computing">College of Computing</a> at <a href="http://gatech.edu" title="Georgia Tech">Georgia Tech</a> advised by <a href="http://poloclub.gatech.edu" title="Polo Club of Data Science">Polo Chau</a>. 
+</span></p>
+
+<p><span class="cv-max-width">
+My research in <strong><span class="cv-ai">Civic AI</span></strong> aims to solve problems intersecting machine learning, human-computer interaction, and public policy, by using a strong principled basis in both mathematical and human centered principles to actualize the potential of new technologies for <span class="cv-soc"> social good </span> with <em>usability</em>, <em>interpretability</em>, and <em>fairness</em>.
+</span></p>
+
+<div class="cv-image-links-wrapper" style="font-size: 16px; padding-bottom: 0;">
+	<div class="cv-image-links">
+		
+			
+				<div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://rickonz.com"><i class="fas fa-home icon" aria-hidden="true" style="color: #515151"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://rickonz.com">rickonz.com</a>
+	</div>
+</div>
+			
+		
+			
+				<div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="mailto:rickonz@gatech.edu"><i class="fas fa-envelope icon" aria-hidden="true" style="color: #515151"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="mailto:rickonz@gatech.edu">rickonz@gatech.edu</a>
+	</div>
+</div>
+			
+		
+			
+				<div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://www.linkedin.com/in/wenxuan-zhang/"><i class="fas fa-linkedin icon" aria-hidden="true" style="color: #515151"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://www.linkedin.com/in/wenxuan-zhang/">rickonz@gatech.edu</a>
+	</div>
+</div>
+			
+		
+			
+		
+			
+		
+			
+				<div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://rickonz.com/cv.pdf"><i class="far fa-file-pdf icon" aria-hidden="true" style="color: #ba2818"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://rickonz.com/cv.pdf">CV PDF</a>
+	</div>
+</div>
+			
+		
+	</div>
+	<div class="cv-image-links">
+		
+			
+		
+			
+		
+			
+		
+			
+				<div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://twitter.com/pickyaudience"><i class="fab fa-twitter icon" aria-hidden="true" style="color: #1da1f2"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://twitter.com/pickyaudience">@austin_p_wright</a>
+	</div>
+</div>
+			
+		
+			
+				<div style="display: flex">
+	<div style="flex: 0 0 40px; text-align: center">
+		<a href="https://github.com/rickonz"><i class="fab fa-github icon" aria-hidden="true" style="color: #6e5494"></i></a>
+	</div>
+	<div style="flex: 1">
+		<a class="intro-image-links-color" href="https://github.com/rickonz">github.com/rickonz</a>
+	</div>
+</div>
+			
+		
+			
+		
+	</div>
+</div>
+
+<hr />
+
+<h2 id="education">Education</h2>
+
+<p>
+  <span class="cv-left-date">Fall 2019 —</span><span class="cv-left-date-mobile">Present</span><strong>Ph.D. in Machine Learning</strong>
+  <br />
+  <span class="cv-left-date-extra">Present</span><a href="https://www.gatech.edu/">Georgia Institute of Technology</a>
+  <br />
+  Advisor: 
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>   
+</p>
+
+<p>
+  <span class="cv-left-date">Fall 2018 —</span><span class="cv-left-date-mobile">Fall 2019</span><strong>Msc. in Computing with Specialism in Machine Learning</strong>
+  <br />
+  <span class="cv-left-date-extra">Fall 2019</span><a href="https://www.imperial.ac.uk/">Imperial College London</a>
+  <br />
+   <i>Thesis: <a href="https://arxiv.org/pdf/2001.09201.pdf">Comparison of Syntactic and Semantic Representations of Programs in Neural Embeddings</a></i><br />  Degree Class: Merit<br />
+</p>
+
+<p>
+  <span class="cv-left-date">Fall 2014 — </span><span class="cv-left-date-mobile">Spring 2018</span><strong>B.A. in Physics and Computer Science</strong>
+  <br />
+  <span class="cv-left-date-extra">Spring 2018</span><a href="https://www.berkeley.edu/">University of California, Berkeley</a>
+  <br />
+     Overall GPA: 3.63 Physics GPA: 3.59  CS GPA: 3.87<br />
+</p>
+
+<h2 id="research-experience">Research Experience</h2>
+
+<p>
+	<span class="cv-left-date">Summer 2020</span><a href="https://www.jpl.nasa.gov/"><strong>NASA Jet Propulsion Laboratory</strong></a>, Remote
+	<br />
+	<i>Intern, <a href="http://datavis.caltech.edu/">Data Visualization</a></i>
+	<br />
+	Mentor: 
+	
+	
+		
+Scott Davidoff
+	
+	
+	<br />
+	<span class="cv-description">
+	Joint work between NASA JPL, Caltech, and Art Center creating interactive data visualizations for current scientific research. Prototype presented to lab leadership and spuring ongoing follow on work at JPL.
+	</span>
+</p>
+
+<p>
+	<span class="cv-left-date">Fall 2019 —</span><span class="cv-left-date-mobile">Present</span><a href="https://www.cdc.gov"><strong>Centers for Disease Control and Prevention</strong></a>, Chamblee, GA
+	<br />
+	<span class="cv-left-date-extra">Present</span><i>ORISE Fellow, <a href="https://www.cdc.gov/injury/index.html">National Center for Injury Prevention and Control</a></i>
+	<br />
+	Mentor: 
+	
+	
+		
+Steve Sumner
+	
+	
+	<br />
+	<span class="cv-description">
+	Introduced natural language processing and data visualization tools for detecting emerging trends in the opiod epidemic.
+	</span>
+</p>
+
+<p>
+	<span class="cv-left-date">Fall 2019 —</span><span class="cv-left-date-mobile">Present</span><a href="http://gatech.edu"><strong>Georgia Institute of Technology</strong></a>, Atlanta, GA
+	<br />
+	<span class="cv-left-date-extra">Present</span><i>Graduate Research Assistant, <a href="http://cse.gatech.edu">School of Computational Science and Engineering</a></i>
+	<br />
+	Advisor: 
+	
+	
+		
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>
+	
+	
+	<br />
+	<span class="cv-description">
+	Member of the Polo Club of Data Science where we bridge and innovate at the intersection of data mining and human-computer interaction to synthesize scalable, interactive, and interpretable tools that amplify human’s ability to understand and interact with big data.
+	</span>
+</p>
+
+<p>
+	<span class="cv-left-date">Summer 2018</span><a href="https://www.lanl.gov/"><strong>Los Alamos National Laboratory</strong></a>, Los Alamos, NM
+	<br />
+	<i>Graduate Researcher, <a href="https://www.lanl.gov/collaboration/internships/service-academy-research-associates/_assets/doc/Summer_School.pdf">Dr. G. Robert Keepin Nonproliferation Summer School</a></i>
+	<br />
+	Mentor: 
+	
+	
+		
+Karen Miller
+	
+	
+	<br />
+	<span class="cv-description">
+	Designed and built machine learning data analysis models and visualization dashboards for facility characterization, and spent fuel measurement using disparate stream data fusion.
+	</span>
+</p>
+
+<p>
+	<span class="cv-left-date">Winter 2017 —</span><span class="cv-left-date-mobile">Spring 2018</span><a href="https://nssc.berkeley.edu/"><strong>Nuclear Science and Security Consortium</strong></a>, Berkeley, CA
+	<br />
+	<span class="cv-left-date-extra">Spring 2018</span><i>Undergraduate Affiliate, <a href="https://complexity.berkeley.edu/">Complex Systems Group</a></i>
+	<br />
+	Mentor: 
+	
+	
+		
+Bethany Goldblum
+	
+	
+	<br />
+	<span class="cv-description">
+	Developed multiplex network modeling for nuclear nonproliferation and multisensor security systems, with a focus on machine learning in particular deep recurrent neural networks.
+	</span>
+</p>
+
+<p>
+	<span class="cv-left-date">Summer 2017</span><a href="https://citris-uc.org/"><strong>CITRIS and the Banatao Institute</strong></a>, Berkeley, CA
+	<br />
+	<i>Undergraduate Research Assistant, <a href="https://hearstmuseum.berkeley.edu/">Phoebe A. Hearst Museum of Anthropology</a></i>
+	<br />
+	Mentor: 
+	
+	
+		
+Chris Hoffman
+	
+	
+	<br />
+	<span class="cv-description">
+	Lead creation of novel photogrammetry pipeline for Phoebe A Hearst Museum of Anthropology in collaboration with the CITRIS Pacific Research Platform.
+	</span>
+</p>
+
+<h2 id="honors-and-awards">Honors and Awards</h2>
+
+<p style="margin-bottom: 0.3rem">
+<span class="cv-left-date">2020</span>IEEE VIS 2020 Best Poster Research Honorable Mention
+<br />
+<span class="cv-description">
+For poster: Mapping Researchers with PeopleMap
+</span>
+</p>
+
+<p style="margin-bottom: 0.3rem">
+<span class="cv-left-date">2020</span>GT-GSU Public Interest Technology (PIT) Fellow
+<br />
+<span class="cv-description">
+The Southeast Region PIT Fellows program supports collaborations between technologists and social scientists centered around the historic and continued equity challenges of the Southeast region and provide a model for regional PIT work focused on community challenges. 
+</span>
+</p>
+
+<p style="margin-bottom: 0.3rem">
+<span class="cv-left-date">2019, 2020</span>Oak Ridge Institute of Science Education Fellowship
+<br />
+<span class="cv-description">
+Research Program at the Centers for Disease Control and Prevention (CDC), managed by the Oak Ridge Institute for Science and Education (ORISE) under an agreement between the CDC and the U.S. Department of Energy (DOE).
+</span>
+</p>
+
+<p style="margin-bottom: 0.3rem">
+<span class="cv-left-date">2019, 2020</span>Georgia Tech President's Fellowship
+<br />
+<span class="cv-description">
+For "exemplary levels of scholarship and innovation"
+</span>
+</p>
+
+<p style="margin-bottom: 0.3rem">
+<span class="cv-left-date">2017</span>U.S. Department of Energy Network Science and Nuclear Nonproliferation Challenge 1st Prize
+<br />
+<span class="cv-description">
+For novel deep recurrent neural network architectures to infer facility operations.
+</span>
+</p>
+
+<p style="margin-bottom: 0.3rem">
+<span class="cv-left-date">2016</span>Pioneers in Engineering Outstanding Mentor Award
+<br />
+<span class="cv-description">
+For dedication to my students and enthusiasm in teaching
+</span>
+</p>
+
+<h2 id="publications">Publications</h2>
+
+<!-- ### Selected: Latest & Greatest
+
+
+
+
+<p>
+
+	<strong>RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization</strong>
+
+
+<br>
+
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+<a href="http://oshaikh.com/">Omar Shaikh</a>,
+	
+
+	
+		
+<a href="https://haekyu.com">Haekyu Park</a>,
+	
+
+	
+		
+<a href="http://www.willepperson.com">Will Epperson</a>,
+	
+
+	
+		
+Muhammed Ahmed,
+	
+
+	
+		
+Stephane Pinel,
+	
+
+	
+		
+<a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>,
+	
+
+	
+		
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>
+	
+
+
+<br>
+
+<i>24th ACM Conference on Computer-Supported Cooperative Work & Social Computing.  2021.</i>
+
+<br>
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="https://arxiv.org/abs/2102.04427">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/pdf/2102.04427">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+</p>
+
+
+
+<p>
+
+	<strong>A Comparative Analysis of Industry Human-AI Interaction Guidelines</strong>
+
+
+<br>
+
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+<a href="https://zijie.wang/">Zijie J. Wang</a>,
+	
+
+	
+		
+<a href="https://haekyu.com">Haekyu Park</a>,
+	
+
+	
+		
+Grace Guo,
+	
+
+	
+		
+Fabian Sperrle,
+	
+
+	
+		
+Mennatallah El-Assady,
+	
+
+	
+		
+Alex Endert,
+	
+
+	
+		
+Daniel Keim,
+	
+
+	
+		
+Duen Horng Chau
+	
+
+
+<br>
+
+<i>IEEE VIS, Workshop on TRust and EXpertise in Visual Analytics.  2020.</i>
+
+<br>
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="https://ai-open-guidelines.readthedocs.io">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/pdf/2010.11761">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_guidelines_selected')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_guidelines_selected">
+	<div class="highlight">
+		<pre>
+			
+@misc{wright2020comparative,
+  title={A Comparative Analysis of Industry Human-AI Interaction Guidelines}, 
+  author={Austin P. Wright and Zijie J. Wang and Haekyu Park and Grace Guo and Fabian Sperrle and Mennatallah El-Assady and Alex Endert and Daniel Keim and Duen Horng Chau},
+  year={2020},
+  eprint={2010.11761},
+  archivePrefix={arXiv},
+  primaryClass={cs.HC}
+}
+		</pre>
+	</div>
+</div>
+
+
+
+
+</p>
+
+
+
+
+
+
+
+<p>
+
+	<strong>The nuclear network: multiplex network analysis for interconnected systems</strong>
+
+
+<br>
+
+
+	
+		
+<a href="https://nuc.berkeley.edu/people/bethany-goldblum/">Bethany L. Goldblum</a>,
+	
+
+	
+		
+Andrew W. Reddie,
+	
+
+	
+		
+Thomas C. Hickey,
+	
+
+	
+		
+James E. Bevins,
+	
+
+	
+		
+Sarah Laderman,
+	
+
+	
+		
+Nathaniel Mahowald,
+	
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+Elie Katzenson,
+	
+
+	
+		
+Yara Mubarak
+	
+
+
+<br>
+
+<i>Applied Network Science volume 4, Article number: 36 (2019).  2019.</i>
+
+<br>
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="/papers/nuclear-network">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://link.springer.com/content/pdf/10.1007/s41109-019-0141-4.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_nuclear-network_selected')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_nuclear-network_selected">
+	<div class="highlight">
+		<pre>
+			
+@article{goldblum2019nuclear,
+title={The nuclear network: multiplex network analysis for interconnected systems},
+author={Goldblum, Bethany L and Reddie, Andrew W and Hickey, Thomas C and Bevins, James E and Laderman, Sarah and Mahowald, Nathaniel and Wright, Austin P and Katzenson, Elie and Mubarak, Yara},
+journal={Applied Network Science},
+volume={4},
+number={1},
+pages={36},
+year={2019},
+publisher={Springer}
+}
+		</pre>
+	</div>
+</div>
+
+
+
+
+</p>
+
+
+
+
+
+ -->
+
+<!-- ### All Publications -->
+
+<p>
+
+	<strong>RECAST: Enabling User Recourse and Interpretability of Toxicity Detection Models with Interactive Visualization</strong>
+
+
+<br />
+
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+<a href="http://oshaikh.com/">Omar Shaikh</a>,
+	
+
+	
+		
+<a href="https://haekyu.com">Haekyu Park</a>,
+	
+
+	
+		
+<a href="http://www.willepperson.com">Will Epperson</a>,
+	
+
+	
+		
+Muhammed Ahmed,
+	
+
+	
+		
+Stephane Pinel,
+	
+
+	
+		
+<a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>,
+	
+
+	
+		
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>
+	
+
+
+<br />
+
+<i>24th ACM Conference on Computer-Supported Cooperative Work &amp; Social Computing.  2021.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="https://arxiv.org/abs/2102.04427">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/pdf/2102.04427">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+</p>
+
+<p>
+
+	<strong>A Comparative Analysis of Industry Human-AI Interaction Guidelines</strong>
+
+
+<br />
+
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+<a href="https://zijie.wang/">Zijie J. Wang</a>,
+	
+
+	
+		
+<a href="https://haekyu.com">Haekyu Park</a>,
+	
+
+	
+		
+Grace Guo,
+	
+
+	
+		
+Fabian Sperrle,
+	
+
+	
+		
+Mennatallah El-Assady,
+	
+
+	
+		
+Alex Endert,
+	
+
+	
+		
+Daniel Keim,
+	
+
+	
+		
+Duen Horng Chau
+	
+
+
+<br />
+
+<i>IEEE VIS, Workshop on TRust and EXpertise in Visual Analytics.  2020.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="https://ai-open-guidelines.readthedocs.io">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/pdf/2010.11761">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_guidelines')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_guidelines">
+	<div class="highlight">
+		<pre>
+			
+@misc{wright2020comparative,
+  title={A Comparative Analysis of Industry Human-AI Interaction Guidelines}, 
+  author={Austin P. Wright and Zijie J. Wang and Haekyu Park and Grace Guo and Fabian Sperrle and Mennatallah El-Assady and Alex Endert and Daniel Keim and Duen Horng Chau},
+  year={2020},
+  eprint={2010.11761},
+  archivePrefix={arXiv},
+  primaryClass={cs.HC}
+}
+		</pre>
+	</div>
+</div>
+
+
+
+</p>
+
+<p>
+
+	<strong>Mapping Researchers with PeopleMap</strong>
+
+
+<br />
+
+
+	
+		
+Jon Saad-Falcon,
+	
+
+	
+		
+<a href="http://oshaikh.com/">Omar Shaikh</a>,
+	
+
+	
+		
+<a href="https://zijie.wang/">Zijie J. Wang</a>,
+	
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+Sasha Richardson,
+	
+
+	
+		
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>
+	
+
+
+<br />
+
+<i>IEEE Visualization 2020.  2020.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/pdf/2009.00091.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_peoplemap')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+	
+
+	
+	    <span class="cv-award"><i class="fas fa-trophy" aria-hidden="true"></i> Honorable Mention Best Poster Research</span>
+	
+
+	
+	
+	</span>
+
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_peoplemap">
+	<div class="highlight">
+		<pre>
+			
+@misc{saadfalcon2020mapping,
+title={Mapping Researchers with PeopleMap}, 
+author={Jon Saad-Falcon and Omar Shaikh and Zijie J. Wang and Austin P. Wright and Sasha Richardson and Duen Horng Chau},
+year={2020},
+eprint={2009.00091},
+archivePrefix={arXiv},
+primaryClass={cs.DL}
+}
+		</pre>
+	</div>
+</div>
+
+
+
+</p>
+
+<p>
+
+	<strong>RECAST: Interactive Auditing of Automatic Toxicity Detection Models</strong>
+
+
+<br />
+
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+<a href="http://oshaikh.com/">Omar Shaikh</a>,
+	
+
+	
+		
+<a href="https://haekyu.com">Haekyu Park</a>,
+	
+
+	
+		
+<a href="http://www.willepperson.com">Will Epperson</a>,
+	
+
+	
+		
+Muhammed Ahmed,
+	
+
+	
+		
+Stephane Pinel,
+	
+
+	
+		
+<a href="https://www.cc.gatech.edu/~dyang888/">Diyi Yang</a>,
+	
+
+	
+		
+<a href="https://www.cc.gatech.edu/~dchau">Duen Horng (Polo) Chau</a>
+	
+
+
+<br />
+
+<i>The eighth International Workshop of Chinese CHI.  2020.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="https://arxiv.org/abs/2001.01819">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://arxiv.org/pdf/2001.01819.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_recast')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_recast">
+	<div class="highlight">
+		<pre>
+			
+@article{wright2020recast,
+title={RECAST: Interactive Auditing of Automatic Toxicity Detection Models},
+author={Austin P. Wright and Omar Shaikh and Haekyu Park and Will Epperson and Muhammed Ahmed and Stephane Pinel and Diyi Yang and Duen Horng (Polo) Chau},
+year={2020},
+eprint={2001.01819},
+archivePrefix={arXiv},
+primaryClass={cs.CL}
+}
+		</pre>
+	</div>
+</div>
+
+
+
+</p>
+
+<p>
+
+	<strong>The nuclear network: multiplex network analysis for interconnected systems</strong>
+
+
+<br />
+
+
+	
+		
+<a href="https://nuc.berkeley.edu/people/bethany-goldblum/">Bethany L. Goldblum</a>,
+	
+
+	
+		
+Andrew W. Reddie,
+	
+
+	
+		
+Thomas C. Hickey,
+	
+
+	
+		
+James E. Bevins,
+	
+
+	
+		
+Sarah Laderman,
+	
+
+	
+		
+Nathaniel Mahowald,
+	
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>,
+	
+
+	
+		
+Elie Katzenson,
+	
+
+	
+		
+Yara Mubarak
+	
+
+
+<br />
+
+<i>Applied Network Science volume 4, Article number: 36 (2019).  2019.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="/papers/nuclear-network">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://link.springer.com/content/pdf/10.1007/s41109-019-0141-4.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_nuclear-network')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_nuclear-network">
+	<div class="highlight">
+		<pre>
+			
+@article{goldblum2019nuclear,
+title={The nuclear network: multiplex network analysis for interconnected systems},
+author={Goldblum, Bethany L and Reddie, Andrew W and Hickey, Thomas C and Bevins, James E and Laderman, Sarah and Mahowald, Nathaniel and Wright, Austin P and Katzenson, Elie and Mubarak, Yara},
+journal={Applied Network Science},
+volume={4},
+number={1},
+pages={36},
+year={2019},
+publisher={Springer}
+}
+		</pre>
+	</div>
+</div>
+
+
+
+</p>
+
+<p>
+
+	<strong>Smart Monitoring of Nuclear Facilities: Implementation Concepts and Development Status</strong>
+
+
+<br />
+
+
+	
+		
+Paul Michael Mendoza,
+	
+
+	
+		
+<a href="https://www.researchgate.net/scientific-contributions/2008117610_Karen_A_Miller">Karen Ann Miller</a>,
+	
+
+	
+		
+Emily Michele Casleton,
+	
+
+	
+		
+Janette Rose Frigo,
+	
+
+	
+		
+Rosalyn Cherie Rael,
+	
+
+	
+		
+Kendra Lu Van Buren,
+	
+
+	
+		
+Jonathan Lee Woodring,
+	
+
+	
+		
+Vlad Henzl,
+	
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>
+	
+
+
+<br />
+
+<i>LA-UR-19-26663.  2019.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+
+	
+
+	
+	  <a href="https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-19-26663">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_smart-monitoring')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_smart-monitoring">
+	<div class="highlight">
+		<pre>
+			
+@misc{mendoza2019monitoring,
+title={Smart Monitoring of Nuclear Facilities: Implementation Concepts and Development Status},
+author={Paul Michael Mendoza, Karen Ann Miller, Emily Michele Casleton, Janette Rose Frigo, Rosalyn Cherie Rael, Kendra Lu Van Buren, Jonathan Lee Woodring, Vlad Henzl, Austin Peter Wright},
+year={2019},
+publisher={Los Alamos National Lab.}
+}
+		</pre>
+	</div>
+</div>
+
+
+
+</p>
+
+<p>
+
+	<strong>Disparate Data Integration for Advanced Facility Monitoring</strong>
+
+
+<br />
+
+
+	
+		
+<a href="https://www.researchgate.net/scientific-contributions/2008117610_Karen_A_Miller">Karen Ann Miller</a>,
+	
+
+	
+		
+Kendra Lu Van Buren,
+	
+
+	
+		
+Janette Rose Frigo,
+	
+
+	
+		
+Max Zeyen,
+	
+
+	
+		
+Joshua P. Sackos,
+	
+
+	
+		
+Paul Michael Mendoza,
+	
+
+	
+		
+<a href="http://austinpwright.com">Austin P. Wright</a>
+	
+
+
+<br />
+
+<i>IAEA Symposium on International Safeguards.  2018.</i>
+
+<br />
+
+
+	<span class="pub-misc">
+
+	
+
+	
+	  <a href="/papers/data-integration">
+	    <i class="fas fa-link" aria-hidden="true"></i> Project
+	  </a>
+	
+
+	
+
+	
+	  <a href="https://media.superevent.com/documents/20181030/74ca5cfd51f7b16bfd88bf3288b3bc86/id234_miller_paper.pdf">
+	    <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
+	  </a>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+		
+			<a class="cv-bibtex-icon" style="cursor:pointer" onclick="toggleBibtex('_data-integration')">
+				<i class="fas fa-book" aria-hidden="true"></i> BibTeX
+			</a>
+		
+	
+
+	
+
+	
+	
+	</span>
+
+
+
+
+
+<div class="highlighter-rouge bibtex" style="display:none" id="_data-integration">
+	<div class="highlight">
+		<pre>
+			
+@article{millerdisparate,
+title={DISPARATE DATA INTEGRATION FOR ADVANCED FACILITY MONITORING},
+author={MILLER, KAREN A and VAN BUREN, KENDRA L and FRIGO, JANETTE R and ZEYEN, MAX and SACKOS, JOSHUA P and MENDOZA, PAUL M and WRIGHT, AUSTIN P}
+author={Goldblum, Bethany L and Reddie, Andrew W and Hickey, Thomas C and Bevins, James E and Laderman, Sarah and Mahowald, Nathaniel and Wright, Austin P and Katzenson, Elie and Mubarak, Yara},
+journal={IAEA Symposium on International Safeguards},
+year={2018},
+}
+		</pre>
+	</div>
+</div>
+
+
+
+</p>
+
+<h2 id="press">Press</h2>
+
+<p style="margin-bottom: 0.3rem">
+    <span class="cv-left-date">2020</span><a href="https://www.cc.gatech.edu/news/635715/making-crime-data-more-accessible-and-user-friendly">"Making Crime Data More Accessible and User Friendly"</a>, Georgia Tech College of Computing
+</p>
+
+<h2 id="talks">Talks</h2>
+
+<p style="margin-bottom: 1rem">
+    <strong> A Comparative Analysis of Industry Human-AI Interaction Guidelines </strong>
+    <br />
+    
+    <span class="cv-left-date">2020</span>IEEE Vis Workshop on TRust and EXpertise in Visual Analytics<br />
+    
+    <span class="pub-misc">
+        <a href="https://www.youtube.com/watch?v=FgHD2sL2bIE&amp;list=LL&amp;index=2&amp;t=3s">
+            <i class="fas fa-film" aria-hidden="true"></i> Video
+        </a>
+    </span>
+    
+    <br />
+    
+</p>
+
+<p style="margin-bottom: 1rem">
+    <strong> MORGANA - a flight rules authoring, validating, and evaluation tool </strong>
+    <br />
+    
+    <span class="cv-left-date">2020</span>JPL Data Visualization Internship Program, Final Presentation, Virtual<br />
+    
+    <span class="pub-misc">
+        <a href="https://www.youtube.com/watch?v=qzsKZQX6q0Y&amp;list=PLeeB2AbpsneaYg76R1VgP-U5-KeOZZpEu&amp;index=3&amp;t=3s">
+            <i class="fas fa-film" aria-hidden="true"></i> Video
+        </a>
+    </span>
+    
+    <br />
+    
+</p>
+
+<p style="margin-bottom: 1rem">
+    <strong> RECAST: Interactive Auditing of Automatic Toxicity Detection Models </strong>
+    <br />
+    
+    <span class="cv-left-date">2020</span>The eighth International Workshop of Chinese CHI, Virtual<br />
+    
+    <br />
+    
+</p>
+
+<p style="margin-bottom: 1rem">
+    <strong> Canary Project Review </strong>
+    <br />
+    
+    <span class="cv-left-date">2018</span>Department of Energy (DOE) National Nuclear Security Administration (NNSA) Defense Nuclear Nonproliferation Research and Development (DNN R&amp;D) University Program Review (UPR)., Ann Arbor, Michigan<br />
+    
+    <br />
+    
+</p>
+
+<p style="margin-bottom: 1rem">
+    <strong> Canaries in a Nuclear Mine: Complexity Science for Nuclear Security </strong>
+    <br />
+    
+    <span class="cv-left-date">2017</span>Institute for Nucelar Materials Managment, Sandia National Laboratories, Albuquerque, New Mexico<br />
+    
+    <br />
+    
+</p>
+
+<!--
+
+## Teaching
+
+ -->
+
+<h2 id="mentoring">Mentoring</h2>
+
+<p>
+	<span class="cv-left-date">Fall 2019 —</span><span class="cv-left-date-mobile">Present</span><a href="http://oshaikh.com/"><strong>Omar Shaikh</strong></a>
+	<br />
+	<span class="cv-left-date-extra">Present</span><i>B.S. in Computer Science, Georgia Institute of Technology</i>
+	<br />
+	<span class="cv-description">Natural Language Processing and Social Computing</span>
+	<br />
+	
+		
+			<span class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Sigma Xi Best Undergraduate Research Award</span>
+			<br />
+		
+	
+	
+</p>
+
+<p>
+	<span class="cv-left-date">Spring 2020 —</span><span class="cv-left-date-mobile">Present</span><a href=""><strong>Jon Saad-Falcon</strong></a>
+	<br />
+	<span class="cv-left-date-extra">Present</span><i>B.S./M.S. in Computer Science, Georgia Institute of Technology</i>
+	<br />
+	<span class="cv-description">Data Visualization</span>
+	<br />
+	
+		
+			<span class="cv-description"><i class="fas fa-award" aria-hidden="true"></i> Honorable Mention Best Poster Research</span>
+			<br />
+		
+	
+	
+</p>
+
+<!--
+## Grants and Funding
+
+ -->
+<!--
+## Technology Skills
+
+ -->
+
+<!--
+## Service
+
+<p style="margin-bottom: 0rem"><strong>Organizer</strong></p>
+
+
+<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Program Commitee</strong></p>
+
+
+<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Reviewer</strong></p>
+
+
+<p style="margin-top: 0.7rem; margin-bottom: 0rem"><strong>Member</strong></p>
+ -->
+
+<h2 id="references">References</h2>
+
+<p>
+	<a href="https://cc.gatech.edu/~dchau/"><strong>Dr. Polo Chau</strong></a>, Associate Professor
+	<br />
+	School of Computational Science and Engineering
+	<br />
+	Georgia Institute of Technology
+	<br />
+	Atlanta, GA, USA
+	<br />
+	<span class="cv-blue-link"><a href="https://cc.gatech.edu/~dchau/">cc.gatech.edu/~dchau/</a></span>
+</p>
+
+<p>
+	<a href="https://www.cdc.gov/injury/pressroom/fullbios_subjectmatterexperts/bio_StevenSumner.html"><strong>Dr. Steven A. Summner</strong></a>, Senior Advisor for Data Science and Innovation
+	<br />
+	National Center for Injury Prevention and Control
+	<br />
+	Centers for Disease Control and Prevention
+	<br />
+	Atalnta, GA, USA
+	<br />
+	<span class="cv-blue-link"><a href="https://www.cdc.gov/injury/pressroom/fullbios_subjectmatterexperts/bio_StevenSumner.html">www.cdc.gov/injury/pressroom/fullbios_subjectmatterexperts/bio_StevenSumner</a></span>
+</p>
+
+<p>
+	<a href="http://scottdavidoff.com/research"><strong>Dr. Scott Davidoff</strong></a>, Human-Computer Interaction Researcher
+	<br />
+	Human Interfaces Group
+	<br />
+	NASA Jet Propulsion Lab
+	<br />
+	Pasadena, CA, USA
+	<br />
+	<span class="cv-blue-link"><a href="http://scottdavidoff.com/research">scottdavidoff.com</a></span>
+</p>
+
+<p>
+	<a href="https://aysps.gsu.edu/profile/scott-jacques/"><strong>Dr. Scott Jacques</strong></a>, Associate Professor
+	<br />
+	Department of Criminal Justice &amp; Criminology
+	<br />
+	Georgia State University
+	<br />
+	Atlanta, GA, USA
+	<br />
+	<span class="cv-blue-link"><a href="https://aysps.gsu.edu/profile/scott-jacques/">aysps.gsu.edu/profile/scott-jacques/</a></span>
+</p>
+
+<h2 id="contact">Contact</h2>
+
+<p>Austin P. Wright
+<code class="language-plaintext highlighter-rouge">apwright@gatech.edu</code><br />
+Coda Tech Square
+Georgia Tech<br />
+756 W Peachtree St NW
+Atlanta, GA 30308</p>
+
+:ET

@@ -1,0 +1,53 @@
+- id: home
+  description: "austinpwright.com"
+  color: "#515151"
+  class: "fas fa-home icon"
+  url: "https://austinpwright.com"
+  on-homepage: false
+  on-cv: true
+  cv-group: 1
+
+- id: email
+  description: "apwright@gatech.edu"
+  color: "#515151"
+  class: "fas fa-envelope icon"
+  url: "mailto:apwright@gatech.edu"
+  on-homepage: true
+  on-cv: true
+  cv-group: 1
+
+- id: twitter
+  description: "@austin_p_wright"
+  color: "#1da1f2"
+  class: "fab fa-twitter icon"
+  url: https://twitter.com/austin_p_wright
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
+- id: github
+  description: "github.com/APWright"
+  color: "#6e5494"
+  class: "fab fa-github icon"
+  url: "https://github.com/APWright"
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
+- id: scholar
+  description: "Google Scholar"
+  color: "#515151"
+  class: "fa fa-graduation-cap icon"
+  url: "https://scholar.google.com/citations?user=fow4eKkAAAAJ&hl=en"
+  on-homepage: true
+  on-cv: true
+  cv-group: 2
+
+- id: cv
+  description: CV PDF
+  color: "#ba2818"
+  class: "far fa-file-pdf icon"
+  url: "https://austinpwright.com/cv.pdf"
+  on-homepage: false
+  on-cv: false
+  cv-group: 1
